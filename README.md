@@ -8,6 +8,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## Categories
 
+- [Azure](azure/)
 - [Python](python/)
 - [JavaScript](javascript/)
 - [Tools & DevOps](devops/)
@@ -38,7 +39,7 @@ til/
 
 ## Count
 
-![TIL Count](https://img.shields.io/badge/TILs-0-blue)
+![TIL Count](https://img.shields.io/badge/TILs-1-blue)
 
 ---
 
