@@ -39,7 +39,7 @@ til/
 
 ## Count
 
-![TIL Count](https://img.shields.io/badge/TILs-1-blue)
+![TIL Count](https://img.shields.io/badge/TILs-2-blue)
 
 ---
 
