@@ -13,7 +13,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
 - [JavaScript](javascript/)
 - [Tools & DevOps](devops/)
 - [Frameworks & Libraries](frameworks/)
-- [CS Concepts](cs/)
+- [Software Engineering](se/)
 
 ---
 
@@ -31,8 +31,8 @@ til/
 │   └── docker-multi-stage-builds.md
 ├── frameworks/
 │   └── react-use-callback.md
-└── cs/
-    └── bloom-filters.md
+└── se/
+    └── test-driven-development.md
 ```
 
 ---
