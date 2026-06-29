@@ -23,23 +23,18 @@ Entries live in topic folders, one Markdown file per TIL:
 
 ```
 til/
-├── python/
-│   └── list-comprehensions.md
-├── javascript/
-│   └── optional-chaining.md
-├── devops/
-│   └── docker-multi-stage-builds.md
-├── frameworks/
-│   └── react-use-callback.md
+├── azure/
+│   └── azure-content-understanding-promotion-pipeline.md
 └── se/
-    └── test-driven-development.md
+    ├── test-driven-development.md
+    └── spec-driven-development.md
 ```
 
 ---
 
 ## Count
 
-![TIL Count](https://img.shields.io/badge/TILs-2-blue)
+![TIL Count](https://img.shields.io/badge/TILs-3-blue)
 
 ---
 
